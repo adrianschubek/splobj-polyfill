@@ -1,0 +1,22 @@
+{
+    "name": "adrianschubek/objstorage-polyfill",
+    "description": "Adds SplObjectStorage shortcut",
+    "type": "library",
+    "homepage": "https://adriansoftware.de",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "adrian",
+            "email": "adrian.schubek@gmail.com",
+            "homepage": "https://adriansoftware.de"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/Support/helpers.php"
+        ]
+    },
+    "require": {
+        "php": ">=5.6"
+    }
+}
